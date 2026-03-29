@@ -69,8 +69,8 @@ Tato práce se soustředí čistě na SW část: implementace do ROS2.
 
 #### 1.1.7 Seznam rolí a aktérů (včetně bezpečnostních rolí).
 
-- [ ] Seznam a stručná charakteristika aktérů – rolí pracujících – komunikujících se systémem
-- [ ] Pozor na
+- [x] Seznam a stručná charakteristika aktérů – rolí pracujících – komunikujících se systémem
+- Pozor na
     - [ ] Úplnost seznamu aktérů,
     - [ ] Aktéry, kteří ve skutečnosti se systémem nekomunikují
     - [ ] Sekundární aktéry (není pro ně systém určen, nicméně komunikují;např. motor výtahu)
@@ -89,4 +89,5 @@ Tato práce se soustředí čistě na SW část: implementace do ROS2.
 
 #### 1.1.9 Plán práce týmu + rozdělení rolí a autorizace (kdo co vytvořil).
 
-|  |  |  |
+Za celou práci zodpovídá autor - student.
+Rolí vedoucího práce je dohlížet a korigovat, ale nenese přímo zodpovědnost za kvalitu výstupu.
